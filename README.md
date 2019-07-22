@@ -13,5 +13,5 @@ Includes 2 Capstone projects:
    For that reason, the metric used for measuring the score is the Area. Under The Precision-Recall Curve (AUCPR) instead of the 
    traditional AUC curve. A desiderable result is an AUCPR at least greater than 0.85. For archieving the task of classifying credit card 
    fraud detection, they are trained several algorithms such as Naive Bayes Classifier, KNN, SVM, Random Forest, GBM, XGBoost and LightGBM.
-   In this analysis, a XGBoost Model is capable of an AUCPR of 0.8623 and this is great!
+   In this analysis, a XGBoost Model is capable of an AUCPR of 0.8623.
 
